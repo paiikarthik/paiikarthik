@@ -67,8 +67,7 @@
 | Area | Learning |
 |--------|----------|
 | 🌐 Web Development | React, Flask |
-| 🔐 Cybersecurity | Network Security, Ethical Hacking |
-| 📱 Mobile Development | Kotlin, Android Studio |
+| 🔐 Cybersecurity | Network Security, UnEthical, Ethical Hacking |
 | ☁️ Cloud | Firebase |
 
 ---
@@ -78,19 +77,7 @@
 ### 📰 Fake News Detection System
 - Detect fake news using Machine Learning.
 - Flask + Python based web application.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=paiikarthik&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiikarthik&layout=compact&theme=tokyonight"/>
-
-</div>
-
+- Many are There You can check My Repository
 ---
 
 ## 🔥 GitHub Streak
@@ -98,16 +85,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paiikarthik&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
@@ -129,11 +106,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/karthikpaii">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:karthikpai911@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>

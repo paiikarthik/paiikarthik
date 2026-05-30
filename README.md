@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Karthik%20Pai&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-# 👋 Hi, I'm Karthik Pai
+# Hi, I'm Karthik Pai
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Mobile+App+Developer;Always+Learning+New+Things"/>
 

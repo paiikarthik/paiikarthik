@@ -70,15 +70,6 @@
 | 🔐 Cybersecurity | Network Security, UnEthical, Ethical Hacking |
 | ☁️ Cloud | Firebase |
 
----
-
-## 📌 Featured Projects
-
-### 📰 Fake News Detection System
-- Detect fake news using Machine Learning.
-- Flask + Python based web application.
-- Many are There You can check My Repository
----
 
 ## 🔥 GitHub Streak
 

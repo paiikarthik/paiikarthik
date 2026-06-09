@@ -1,34 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Karthik%20Pai&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Karthik%20Pai&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 # Hi, I'm Karthik Pai
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Mobile+App+Developer;Always+Learning+New+Things"/>
-
-<img src="https://komarev.com/ghpvc/?username=paiikarthik&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast"/>
 </div>
 
 ---
 
-## 🚀 About Me
-
-```bash
-> whoami
-
-👨 Name          : Karthik Pai
-🎓 Education     : MCA Student
-💻 Interest      : Full Stack Development
-🔐 Passion       : Cybersecurity
-📱 Learning      : Android Development (Kotlin)
-🌱 Currently     : React, Flask, Bootstrap
-⚡ Goal          : Software Engineer
-```
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -62,17 +43,16 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 | Area | Learning |
 |--------|----------|
-| 🌐 Web Development | React, Flask |
-| 🔐 Cybersecurity | Network Security, UnEthical, Ethical Hacking |
-| ☁️ Cloud | Firebase |
+|  Web Development | React, Flask |
+|  Cybersecurity | Network Security, UnEthical, Ethical Hacking |
+|  Cloud | Firebase |
 
 
-## 🔥 GitHub Streak
-
+##  GitHub Streak
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paiikarthik&theme=tokyonight"/>
@@ -81,16 +61,7 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paiikarthik&theme=tokyo-night"/>
-
-</div>
-
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/paiikarthik">
@@ -109,9 +80,6 @@
 ---
 
 <div align="center">
-
-### "Code • Learn • Build • Repeat"
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>

@@ -54,9 +54,9 @@
 
 ##  GitHub Streak
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paiikarthik&theme=tokyonight"/>
-
+  <a href="https://github.com/paiikarthik">
+    <img src="https://streak-stats.demolab.com/?user=paiikarthik&theme=merko&timezone=Asia/Kolkata" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---

@@ -8,38 +8,16 @@
 </div>
 
 ---
-
-##  Tech Stack
-
-### Languages
-
+<div align="center">
+<h3>Languages and Tools </h3>
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php,kotlin"/>
-</p>
-
-### Frontend
-
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
-</p>
-
-### Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs"/>
-</p>
-
-### Database
-
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
-
-### Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
+</div>
 
 ---
 
@@ -54,7 +32,7 @@
 ---
 
 <div align="center">
-  <h3>⚡ Let's Connect!</h3>
+  <h3>Let's Connect!</h3>
 
   <a href="https://github.com/paiikarthik">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />

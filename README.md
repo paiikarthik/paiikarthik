@@ -37,9 +37,6 @@
   <a href="https://github.com/paiikarthik">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/karthikpaii">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="mailto:karthikpai911@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>

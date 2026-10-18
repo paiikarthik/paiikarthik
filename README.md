@@ -49,9 +49,7 @@ class KarthikPai:
 
 <div align="center">
 
-<a href="https://github.com/paiikarthik">
-  <img src="https://streak-stats.demolab.com/?user=paiikarthik&theme=tokyonight&hide_border=true&background=0f2027&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&timezone=Asia/Kolkata" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=paiikarthik&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 
 </div>
 
